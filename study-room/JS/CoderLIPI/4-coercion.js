@@ -24,5 +24,5 @@ console.log('Answer:' + c); // output will be Answer:NaN or Not a Number
 
 let d = parseInt('Chrizsan', 10);
 let e = isNaN(d);
-console.log(d); // output will be NaN
+console.log(d); // output will be NaN 
 console.log(e); // output will be true
